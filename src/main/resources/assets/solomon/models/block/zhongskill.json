@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "solomon:blocks/sssk",
+    "up": "solomon:blocks/sssk",
+    "north": "solomon:blocks/sssk",
+    "east": "solomon:blocks/sssk",
+    "south": "solomon:blocks/sssk",
+    "west": "solomon:blocks/sssk",
+    "particle": "solomon:blocks/sssk"
+  }
+}

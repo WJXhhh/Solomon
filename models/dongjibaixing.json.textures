@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lain1",
+        "2": "dongjiblue",
+        "3": "xian",
+        "4": "dongjibaiwen",
+        "5": "zhen",
+        "missing": "lain1"
+      },
+      "name": "default"
+    }
+  }
+}

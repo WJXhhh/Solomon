@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "chijin",
+        "2": "white",
+        "3": "rens",
+        "4": "qianggnaxia"
+      },
+      "name": "default"
+    }
+  }
+}

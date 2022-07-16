@@ -1,0 +1,42 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:aomanzhijing"
+    },
+    "1": {
+      "item": "solomon:amgp"
+    },
+    "2": {
+      "item": "solomon:aomanzhijing"
+    },
+    "3": {
+      "item": "solomon:amgp"
+    },
+    "4": {
+      "item": "solomon:luciwen"
+    },
+    "5": {
+      "item": "solomon:amgp"
+    },
+    "6": {
+      "item": "solomon:aomanzhijing"
+    },
+    "7": {
+      "item": "solomon:amgp"
+    },
+    "8": {
+      "item": "solomon:godkey"
+    }
+  },
+  "result": {
+    "item": "solomon:lucistone",
+    "count": 1
+  }
+}

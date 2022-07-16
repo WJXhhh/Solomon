@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Seyu"
+      },
+      {
+        "value": "CUSTOM:Seyugp"
+      },
+      {
+        "value": "CUSTOM:Seyu"
+      },
+      {
+        "value": "CUSTOM:Seyugp"
+      },
+      {
+        "value": "CUSTOM:Asmodwen"
+      },
+      {
+        "value": "CUSTOM:Seyugp"
+      },
+      {
+        "value": "CUSTOM:Seyu"
+      },
+      {
+        "value": "CUSTOM:Seyugp"
+      },
+      {
+        "value": "CUSTOM:Godkey"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Zhaohuanstoneasmod"
+    },
+    "name": "shireasmod",
+    "namespace": "mod"
+  }
+}

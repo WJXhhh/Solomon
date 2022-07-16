@@ -1,0 +1,9 @@
+{
+  "parent": "solomon:custom/lianjin",
+  "textures": {
+    "all": "solomon:blocks/lainkin",
+    "particle": "solomon:blocks/lainkin",
+    "0": "solomon:blocks/lain1",
+    "1": "solomon:blocks/lain2"
+  }
+}

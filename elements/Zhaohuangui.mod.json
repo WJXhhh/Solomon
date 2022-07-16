@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "kouling",
+          "x": 151,
+          "y": 47
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -16724737,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 166,
+          "y": 82
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "’ŸªΩ",
+          "onClick": {
+            "name": "Zhaohuanqi"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "’ŸªΩ",
+          "x": 215,
+          "y": 81
+        }
+      }
+    ]
+  }
+}

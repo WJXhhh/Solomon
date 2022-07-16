@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "À×¸½×Å",
+    "effectName": "À×¸½×Å",
+    "icon": "14329017252c7ad9spriteui_buff_element_elect.png",
+    "color": {
+      "value": -6749953,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "solomon:blocks/shuijing_ore",
+    "up": "solomon:blocks/shuijing_ore",
+    "north": "solomon:blocks/shuijing_ore",
+    "east": "solomon:blocks/shuijing_ore",
+    "south": "solomon:blocks/shuijing_ore",
+    "west": "solomon:blocks/shuijing_ore",
+    "particle": "solomon:blocks/shuijing_ore"
+  }
+}

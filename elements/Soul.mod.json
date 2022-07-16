@@ -1,0 +1,35 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Asmodsoul"
+      },
+      {
+        "value": "CUSTOM:Beelsoul"
+      },
+      {
+        "value": "CUSTOM:Mammoncan"
+      },
+      {
+        "value": "CUSTOM:Belphcan"
+      },
+      {
+        "value": "CUSTOM:Samelsoul"
+      },
+      {
+        "value": "CUSTOM:Leviacan"
+      },
+      {
+        "value": "CUSTOM:Lucican"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "soul",
+    "namespace": "forge"
+  }
+}

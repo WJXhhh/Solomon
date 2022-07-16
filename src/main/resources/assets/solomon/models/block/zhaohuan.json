@@ -1,0 +1,10 @@
+{
+  "parent": "solomon:custom/zhaohuan",
+  "textures": {
+    "all": "solomon:blocks/lain1",
+    "particle": "solomon:blocks/lain1",
+    "0": "solomon:blocks/white",
+    "1": "solomon:blocks/cyan",
+    "2": "solomon:blocks/bleu"
+  }
+}

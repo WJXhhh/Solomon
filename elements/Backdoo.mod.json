@@ -1,0 +1,40 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "comm",
+          "x": 154,
+          "y": 45
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Ö´ÐÐ",
+          "onClick": {
+            "name": "Backdooo"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "Ö´ÐÐ",
+          "x": 195,
+          "y": 79
+        }
+      }
+    ]
+  }
+}

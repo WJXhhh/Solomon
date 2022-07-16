@@ -1,0 +1,22 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:shujkikuai"
+    },
+    "1": {
+      "item": "solomon:shujkikuai"
+    },
+    "2": {
+      "item": "solomon:shujkikuai"
+    }
+  },
+  "result": {
+    "item": "solomon:mokuang",
+    "count": 1
+  }
+}

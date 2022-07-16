@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "solomon:blocks/mingldp",
+    "up": "solomon:blocks/mingldp",
+    "north": "solomon:blocks/mingldp",
+    "east": "solomon:blocks/mingldp",
+    "south": "solomon:blocks/mingldp",
+    "west": "solomon:blocks/mingldp",
+    "particle": "solomon:blocks/mingldp"
+  }
+}

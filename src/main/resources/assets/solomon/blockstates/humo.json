@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "solomon:humo.obj",
+    "custom": {
+      "flip-v": true
+    },
+    "textures": {
+      "#mat1": "solomon:blocks/humo"
+    }
+  },
+  "variants": {
+    "inventory": [
+      {
+        "transform": "forge:default-tool"
+      }
+    ]
+  }
+}

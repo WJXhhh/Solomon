@@ -1,0 +1,128 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 296,
+    "height": 196,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "技能设置",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "技能设置",
+          "x": 199,
+          "y": 35
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "ji1",
+          "x": 78,
+          "y": 53
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "ji2",
+          "x": 78,
+          "y": 89
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "big",
+          "x": 222,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "技能1",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "技能1",
+          "x": 204,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "技能2",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "技能2",
+          "x": 204,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "大招",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "大招",
+          "x": 343,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "应用",
+          "onClick": {
+            "name": "Jinengsheding"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "应用",
+          "x": 285,
+          "y": 98
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 294,
+          "y": 76
+        }
+      }
+    ]
+  }
+}

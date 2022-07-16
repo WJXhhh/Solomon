@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "solomon:blocks/huansheng",
+    "up": "solomon:blocks/huansheng",
+    "north": "solomon:blocks/huansheng",
+    "east": "solomon:blocks/huansheng",
+    "south": "solomon:blocks/huansheng",
+    "west": "solomon:blocks/huansheng",
+    "particle": "solomon:blocks/huansheng"
+  }
+}

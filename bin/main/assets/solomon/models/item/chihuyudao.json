@@ -1,0 +1,8 @@
+{
+  "parent": "solomon:custom/chihuyudao",
+  "textures": {
+    "1": "solomon:blocks/lain1",
+    "2": "solomon:blocks/gan2",
+    "3": "solomon:blocks/shoubing2"
+  }
+}

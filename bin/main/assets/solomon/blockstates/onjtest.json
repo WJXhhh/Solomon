@@ -1,0 +1,20 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "solomon:kunwu_sword.obj",
+    "custom": {
+      "flip-v": true
+    },
+    "textures": {
+      "#sword_kunwu_glow": "solomon:blocks/sword_kunwu_glow_00_00_00",
+      "#sword_kunwu": "solomon:blocks/sword_kunwu_00_00_00"
+    }
+  },
+  "variants": {
+    "inventory": [
+      {
+        "transform": "forge:default-tool"
+      }
+    ]
+  }
+}

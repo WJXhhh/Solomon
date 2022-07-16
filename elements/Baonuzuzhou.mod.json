@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "±©Å­×çÖä",
+    "effectName": "±©Å­×çÖä",
+    "icon": "booroanv.png",
+    "color": {
+      "value": -52429,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "BaonuzuzhouYaoShuiXiaoGuoChiXuShiMeiKeFaSheng"
+    }
+  }
+}

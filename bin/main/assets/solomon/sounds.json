@@ -1,0 +1,632 @@
+{
+  "asmodji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:asmodjieng1_01",
+        "stream": true
+      }
+    ]
+  },
+  "asmodji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:asmodjineng2_01",
+        "stream": true
+      }
+    ]
+  },
+  "asmodda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:asmodda_01",
+        "stream": true
+      }
+    ]
+  },
+  "bsstjineng": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:bsstjineng_01",
+        "stream": true
+      }
+    ]
+  },
+  "beelji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:beeljineng1_01",
+        "stream": true
+      }
+    ]
+  },
+  "beelji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:beeljineng2_01",
+        "stream": true
+      }
+    ]
+  },
+  "beelji3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:beeljineng3_01",
+        "stream": true
+      }
+    ]
+  },
+  "beelda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:beelda_01",
+        "stream": true
+      }
+    ]
+  },
+  "bsstdie": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:bsstdie_01",
+        "stream": true
+      }
+    ]
+  },
+  "tlstjineng": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:tlst.jineng_01",
+        "stream": true
+      }
+    ]
+  },
+  "tlstdeath": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:tlst.dea_01",
+        "stream": true
+      }
+    ]
+  },
+  "mammonji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:mammon.jineng_01",
+        "stream": true
+      }
+    ]
+  },
+  "mammonji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:mammon.jineng2_01",
+        "stream": true
+      }
+    ]
+  },
+  "mammonda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:mammon.da_01",
+        "stream": true
+      }
+    ]
+  },
+  "seyujineng": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:seyushitujineng",
+        "stream": true
+      }
+    ]
+  },
+  "seyudeath2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:seyudeath2_01",
+        "stream": true
+      }
+    ]
+  },
+  "seyudeath01": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:seyudeath1_01",
+        "stream": true
+      }
+    ]
+  },
+  "planetbefall_2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:planetbefall_2",
+        "stream": true
+      }
+    ]
+  },
+  "planerbefall_3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:planetbefall_3",
+        "stream": true
+      }
+    ]
+  },
+  "planetbefall_1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:planetbefall_1",
+        "stream": true
+      }
+    ]
+  },
+  "qianzao_1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:qianzao_1",
+        "stream": true
+      }
+    ]
+  },
+  "qianzao_2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:qianzao_2",
+        "stream": true
+      }
+    ]
+  },
+  "qianzao_3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:qianzao_3",
+        "stream": true
+      }
+    ]
+  },
+  "yvzhang_1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yvzhang_1",
+        "stream": true
+      }
+    ]
+  },
+  "yvzhang_2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yvzhang_2",
+        "stream": true
+      }
+    ]
+  },
+  "yvzhang_3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yvzhang_3",
+        "stream": true
+      }
+    ]
+  },
+  "liming1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:liming1",
+        "stream": true
+      }
+    ]
+  },
+  "liming2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:liming2",
+        "stream": true
+      }
+    ]
+  },
+  "liming3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:liming3",
+        "stream": true
+      }
+    ]
+  },
+  "zhishi1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:zhishi1",
+        "stream": true
+      }
+    ]
+  },
+  "zhishi2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:zhishi2",
+        "stream": true
+      }
+    ]
+  },
+  "landuoji": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:ldst.jineng_01",
+        "stream": true
+      }
+    ]
+  },
+  "landuodea": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:ldst.dea_01",
+        "stream": true
+      }
+    ]
+  },
+  "belphji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:belphji1_01",
+        "stream": true
+      }
+    ]
+  },
+  "belphji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:belphji2_01",
+        "stream": true
+      }
+    ]
+  },
+  "belphda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:belph.da_01",
+        "stream": true
+      }
+    ]
+  },
+  "bnstji": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:bnstji_01",
+        "stream": true
+      }
+    ]
+  },
+  "bnstdea": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:bnstdeath_01",
+        "stream": true
+      }
+    ]
+  },
+  "samji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:samelji1_01",
+        "stream": true
+      }
+    ]
+  },
+  "samji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:samelji2_01",
+        "stream": true
+      }
+    ]
+  },
+  "samda": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:samelda_01",
+        "stream": true
+      }
+    ]
+  },
+  "tianjie1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:tianjie1",
+        "stream": true
+      }
+    ]
+  },
+  "tianjie2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:tianjie2",
+        "stream": true
+      }
+    ]
+  },
+  "tianjie3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:tianjie3",
+        "stream": true
+      }
+    ]
+  },
+  "xuanji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:xuanji1",
+        "stream": true
+      }
+    ]
+  },
+  "xuanji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:xuanji2",
+        "stream": true
+      }
+    ]
+  },
+  "xuanji3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:xuanji3",
+        "stream": true
+      }
+    ]
+  },
+  "jdstji": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:jdstji_01",
+        "stream": true
+      }
+    ]
+  },
+  "jdstdea": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:jdstdea_01",
+        "stream": true
+      }
+    ]
+  },
+  "leviaji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:leviaji1_01",
+        "stream": true
+      }
+    ]
+  },
+  "leviaji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:leviaji2_01",
+        "stream": true
+      }
+    ]
+  },
+  "leviada": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:leviada_01",
+        "stream": true
+      }
+    ]
+  },
+  "jdzjji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:jdzjji1",
+        "stream": true
+      }
+    ]
+  },
+  "jdzjji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:jdzjji2",
+        "stream": true
+      }
+    ]
+  },
+  "amstji": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:amstji",
+        "stream": true
+      }
+    ]
+  },
+  "amstdea": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:amstdea",
+        "stream": true
+      }
+    ]
+  },
+  "amzjji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:amzjji1",
+        "stream": true
+      }
+    ]
+  },
+  "amzjji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:amzjji2",
+        "stream": true
+      }
+    ]
+  },
+  "luciji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:luciintro",
+        "stream": true
+      }
+    ]
+  },
+  "luciji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:luciji2",
+        "stream": true
+      }
+    ]
+  },
+  "lucida": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:luciintro",
+        "stream": true
+      }
+    ]
+  },
+  "meimiao1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:meimiao1",
+        "stream": true
+      }
+    ]
+  },
+  "meimiao2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:meimiao2",
+        "stream": true
+      }
+    ]
+  },
+  "meimiao3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:meimiao3",
+        "stream": true
+      }
+    ]
+  },
+  "yaeji1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yaeji1",
+        "stream": true
+      }
+    ]
+  },
+  "yaeji2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yaeji2",
+        "stream": true
+      }
+    ]
+  },
+  "yaeji3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yaeji3",
+        "stream": true
+      }
+    ]
+  },
+  "yaeda1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yaeda1",
+        "stream": true
+      }
+    ]
+  },
+  "yaeda2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yaeda2",
+        "stream": true
+      }
+    ]
+  },
+  "yaeda3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "solomon:yaeda3",
+        "stream": true
+      }
+    ]
+  }
+}

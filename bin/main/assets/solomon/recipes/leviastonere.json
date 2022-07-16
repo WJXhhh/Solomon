@@ -1,0 +1,42 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:jiduzhijing"
+    },
+    "1": {
+      "item": "solomon:jidugp"
+    },
+    "2": {
+      "item": "solomon:jiduzhijing"
+    },
+    "3": {
+      "item": "solomon:jidugp"
+    },
+    "4": {
+      "item": "solomon:leviawen"
+    },
+    "5": {
+      "item": "solomon:jidugp"
+    },
+    "6": {
+      "item": "solomon:jiduzhijing"
+    },
+    "7": {
+      "item": "solomon:jidugp"
+    },
+    "8": {
+      "item": "solomon:godkey"
+    }
+  },
+  "result": {
+    "item": "solomon:leviast",
+    "count": 1
+  }
+}

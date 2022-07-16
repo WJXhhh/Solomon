@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "chijin",
+        "2": "lain1",
+        "3": "shoubing",
+        "4": "zhen",
+        "5": "texture2",
+        "6": "ganzi",
+        "7": "pai"
+      },
+      "name": "default"
+    }
+  }
+}

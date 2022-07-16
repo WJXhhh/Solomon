@@ -1,0 +1,11 @@
+{
+  "parent": "solomon:custom/lvqiang2",
+  "textures": {
+    "1": "solomon:blocks/lvse",
+    "2": "solomon:blocks/chijin",
+    "3": "solomon:blocks/heizong",
+    "4": "solomon:blocks/taff2",
+    "5": "solomon:blocks/hewgds",
+    "6": "solomon:blocks/qianggan"
+  }
+}

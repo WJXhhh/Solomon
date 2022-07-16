@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "shoubing",
+        "2": "shoubing2",
+        "3": "pur",
+        "4": "whiteblade",
+        "5": "wuqiete",
+        "6": "texture222"
+      },
+      "name": "default"
+    }
+  }
+}

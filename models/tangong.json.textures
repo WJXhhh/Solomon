@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "shoubing",
+        "2": "texture4",
+        "3": "shoubing2"
+      },
+      "name": "default"
+    }
+  }
+}

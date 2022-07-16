@@ -1,0 +1,54 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 296,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 250,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "萨麦尔",
+          "color": {
+            "value": -16470,
+            "falpha": 0.0
+          },
+          "name": "萨麦尔",
+          "x": 207,
+          "y": 51
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪七神，暴怒之神萨麦尔，召唤他需要暴怒之晶，由烈焰人掉落",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "原罪七神，暴怒之神萨麦尔，召唤他需要暴怒之晶，由烈焰人掉落",
+          "x": 69,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪神",
+          "color": {
+            "value": -16737844,
+            "falpha": 0.0
+          },
+          "name": "原罪神",
+          "x": 207,
+          "y": 64
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "solomon:custom/dongjibaixing",
+  "textures": {
+    "1": "solomon:blocks/lain1",
+    "2": "solomon:blocks/dongjiblue",
+    "3": "solomon:blocks/xian",
+    "4": "solomon:blocks/dongjibaiwen",
+    "5": "solomon:blocks/zhen",
+    "missing": "solomon:blocks/lain1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "solomon:custom/boluan",
+  "textures": {
+    "1": "solomon:blocks/lain1",
+    "2": "solomon:blocks/whiteblue",
+    "3": "solomon:blocks/blue",
+    "4": "solomon:blocks/boluangan",
+    "5": "solomon:blocks/texture2"
+  }
+}

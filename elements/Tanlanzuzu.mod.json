@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Ì°À·×çÖä",
+    "effectName": "Ì°À·×çÖä",
+    "icon": "tanlanzuz.png",
+    "color": {
+      "value": -26317,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "TanlanzuzuYaoShuiXiaoGuoChiXuShiMeiKeFaSheng"
+    }
+  }
+}

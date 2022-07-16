@@ -1,0 +1,8 @@
+{
+  "parent": "solomon:custom/tangong",
+  "textures": {
+    "1": "solomon:blocks/shoubing",
+    "2": "solomon:blocks/texture4",
+    "3": "solomon:blocks/shoubing2"
+  }
+}

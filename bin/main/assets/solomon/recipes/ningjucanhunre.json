@@ -1,0 +1,26 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "type": "forge:ore_dict",
+      "ore": "soul"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "type": "forge:ore_dict",
+      "ore": "soul"
+    }
+  },
+  "result": {
+    "item": "solomon:ningjucanhun",
+    "count": 1
+  }
+}

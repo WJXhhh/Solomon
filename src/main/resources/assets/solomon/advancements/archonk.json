@@ -1,0 +1,37 @@
+{
+  "display": {
+    "background": "solomon:textures/sofff.png",
+    "icon": {
+      "item": "solomon:deamincan"
+    },
+    "title": {
+      "translate": "advancements.archonk.title"
+    },
+    "description": {
+      "translate": "advancements.archonk.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "archonk": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "solomon:deamincan",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

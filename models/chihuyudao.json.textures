@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lain1",
+        "2": "gan2",
+        "3": "shoubing2"
+      },
+      "name": "default"
+    }
+  }
+}

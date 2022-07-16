@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lvse",
+        "2": "chijin",
+        "3": "heizong",
+        "4": "taff2",
+        "5": "hewgds",
+        "6": "qianggan"
+      },
+      "name": "default"
+    }
+  }
+}

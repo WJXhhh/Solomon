@@ -1,0 +1,14 @@
+{
+  "parent": "solomon:custom/zhuofengnomro",
+  "textures": {
+    "1": "solomon:blocks/white",
+    "2": "solomon:blocks/bladedown",
+    "3": "solomon:blocks/graybleu",
+    "4": "solomon:blocks/grayy",
+    "5": "solomon:blocks/graywhf",
+    "6": "solomon:blocks/zhuogan",
+    "7": "solomon:blocks/zongjin",
+    "8": "solomon:blocks/zhuojin",
+    "9": "solomon:blocks/liangjin"
+  }
+}

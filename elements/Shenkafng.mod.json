@@ -1,0 +1,56 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "供奉",
+          "onClick": {
+            "name": "Shenkangua"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "供奉",
+          "x": 196,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "神龛",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "神龛",
+          "x": 204,
+          "y": 45
+        }
+      }
+    ]
+  }
+}

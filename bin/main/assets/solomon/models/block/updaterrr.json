@@ -1,0 +1,11 @@
+{
+  "parent": "solomon:custom/updater",
+  "textures": {
+    "all": "solomon:blocks/update",
+    "particle": "solomon:blocks/update",
+    "0": "solomon:blocks/texture_lian1",
+    "1": "solomon:blocks/texture3",
+    "2": "solomon:blocks/board",
+    "3": "solomon:blocks/gan"
+  }
+}

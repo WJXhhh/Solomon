@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "solomon:blocks/juhcaj",
+    "up": "solomon:blocks/juhcaj",
+    "north": "solomon:blocks/juheuq1",
+    "east": "solomon:blocks/juheuq1",
+    "south": "solomon:blocks/juheuq1",
+    "west": "solomon:blocks/juheuq1",
+    "particle": "solomon:blocks/juhcaj"
+  }
+}

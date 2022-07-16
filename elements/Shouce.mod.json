@@ -1,0 +1,59 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 256,
+    "height": 200,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 256,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "asmod.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Shouceye1"
+          },
+          "name": "asmod.png",
+          "x": 177,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ">",
+          "onClick": {
+            "name": "Shouceyou"
+          },
+          "width": 30,
+          "height": 20,
+          "name": ">",
+          "x": 303,
+          "y": 188
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "<",
+          "onClick": {
+            "name": "Shoucezuo"
+          },
+          "displayCondition": {
+            "name": "Shoucezuojian"
+          },
+          "width": 30,
+          "height": 20,
+          "name": "<",
+          "x": 96,
+          "y": 188
+        }
+      }
+    ]
+  }
+}

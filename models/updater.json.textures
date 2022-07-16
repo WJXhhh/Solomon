@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texture_lian1",
+        "1": "texture3",
+        "2": "board",
+        "3": "gan"
+      },
+      "name": "default"
+    }
+  }
+}

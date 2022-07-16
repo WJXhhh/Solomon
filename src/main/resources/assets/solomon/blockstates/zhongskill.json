@@ -1,0 +1,46 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "solomon:zhongs2.obj",
+    "custom": {
+      "flip-v": true
+    },
+    "textures": {
+      "#m0": "solomon:blocks/sssk",
+      "#m1": "solomon:blocks/sssk"
+    }
+  },
+  "variants": {
+    "normal": {
+      "model": "solomon:zhong2.obj"
+    },
+    "facing=north": {
+      "model": "solomon:zhong2.obj"
+    },
+    "facing=east": {
+      "model": "solomon:zhong2.obj",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "solomon:zhong2.obj",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "solomon:zhong2.obj",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "solomon:zhong2.obj",
+      "x": 90
+    },
+    "facing=down": {
+      "model": "solomon:zhong2.obj",
+      "x": 270
+    },
+    "inventory": [
+      {
+        "transform": "forge:default-item"
+      }
+    ]
+  }
+}

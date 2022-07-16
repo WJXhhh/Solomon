@@ -1,0 +1,24 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:vle"
+    },
+    "1": {
+      "item": "solomon:mingshenyusou"
+    },
+    "2": {
+      "item": "solomon:feiyingxiuqiu"
+    }
+  },
+  "result": {
+    "item": "solomon:mengying",
+    "count": 1
+  }
+}

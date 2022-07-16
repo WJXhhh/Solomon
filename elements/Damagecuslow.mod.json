@@ -1,0 +1,28 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Damagecuslow",
+    "effectName": "Damagecuslow",
+    "icon": "tianyun.png",
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "DamagecuslowDangYaoShuiXiaoGuoKaiShiYingYongShi"
+    },
+    "onActiveTick": {
+      "name": "DamagecuslowDangYaoShuiXiaoGuoKaiShiYingYongShi"
+    },
+    "onExpired": {
+      "name": "DamagecuslowDangYaoShuiXiaoGuoKaiShiYingYongShi"
+    }
+  }
+}

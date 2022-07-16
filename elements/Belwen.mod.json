@@ -1,0 +1,54 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 296,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 250,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "别西卜",
+          "color": {
+            "value": -16724992,
+            "falpha": 0.0
+          },
+          "name": "别西卜",
+          "x": 203,
+          "y": 48
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪神",
+          "color": {
+            "value": -16737844,
+            "falpha": 0.0
+          },
+          "name": "原罪神",
+          "x": 205,
+          "y": 65
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪七神，暴食之神别西卜，召唤他需要暴食之晶，由僵尸掉落",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "原罪七神，暴食之神别西卜，召唤他需要暴食之晶，由僵尸掉落",
+          "x": 69,
+          "y": 80
+        }
+      }
+    ]
+  }
+}

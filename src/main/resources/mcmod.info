@@ -1,0 +1,22 @@
+[
+  {
+    "modid": "solomon",
+    "name": "Solomon key",
+    "description": "围绕所罗门传说与原神。",
+    "version": "1.2.01",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "assets/solomon/textures/1.2logosmall.png",
+    "mcversion": "1.12.2",
+    "url": "https://www.mcmod.cn/class/5665.html",
+    "updateUrl": "",
+    "authorList": [
+      "JDJades(WJX), MCreator"
+    ],
+    "dependencies": [
+      "forge@[14.23.5.2855]"
+    ],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

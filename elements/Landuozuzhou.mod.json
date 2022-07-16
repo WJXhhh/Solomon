@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "¿¡∂Ë◊Á÷‰",
+    "effectName": "¿¡∂Ë◊Á÷‰",
+    "icon": "landuozuzhois.png",
+    "color": {
+      "value": -13421569,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "LanduozuzhouDangYaoShuiXiaoGuoKaiShiYingYongShi"
+    },
+    "onActiveTick": {
+      "name": "LanduozuzhouYaoShuiXiaoGuoChiXuShiMeiKeFaSheng"
+    }
+  }
+}

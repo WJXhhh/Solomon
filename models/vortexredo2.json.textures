@@ -1,0 +1,23 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "zhuojin",
+        "12": "zongjin",
+        "13": "jingti",
+        "14": "kauikuai",
+        "2": "vortexgan",
+        "3": "zhuojin",
+        "4": "jin1",
+        "5": "jin2",
+        "6": "jin3",
+        "7": "jin4",
+        "8": "jin5",
+        "missing": "zongjin",
+        "9": "jin6",
+        "10": "jin7"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "÷Ó‘∏∞Ÿ—€÷Æ¬÷",
+    "effectName": "÷Ó‘∏∞Ÿ—€÷Æ¬÷",
+    "icon": "zhuyuan.png",
+    "color": {
+      "value": -6723841,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

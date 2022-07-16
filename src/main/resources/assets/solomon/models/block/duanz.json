@@ -1,0 +1,8 @@
+{
+  "parent": "solomon:custom/duanzaozhne",
+  "textures": {
+    "all": "solomon:blocks/duanhz",
+    "particle": "solomon:blocks/duanhz",
+    "0": "solomon:blocks/zhen"
+  }
+}

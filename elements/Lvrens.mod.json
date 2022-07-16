@@ -1,0 +1,75 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "ÂÃÈË",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "ÂÃÈË",
+          "x": 209,
+          "y": 45
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -13421569,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 167,
+          "y": 71
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -65485,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 241,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "¹ºÂò",
+          "onClick": {
+            "name": "Lvrenbuy"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "¹ºÂò",
+          "x": 195,
+          "y": 95
+        }
+      }
+    ]
+  }
+}

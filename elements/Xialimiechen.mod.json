@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "xialimeic",
+    "customModelName": "xialimiechen:default",
+    "name": "°Ïd°Ïlœª¿Ô√≥Ω",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Solo"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 51.0,
+    "enchantability": 2,
+    "damageVsEntity": 7.0,
+    "usageCount": 20000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "XialimiechenDangShiTiBeiGongJuJiZhongShi"
+    },
+    "onItemInInventoryTick": {
+      "name": "GuanhongDangGongJuChuXianZaiWuPinLanShi"
+    }
+  }
+}

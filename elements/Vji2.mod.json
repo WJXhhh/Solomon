@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "O",
+    "keyBindingName": "ÔªËØÕ½¼¼2",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "Vji2AnXiaAnJianShi"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "texture4",
+        "2": "texture_lian1"
+      },
+      "name": "default"
+    }
+  }
+}

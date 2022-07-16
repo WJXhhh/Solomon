@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "±©Ê³×çÖä",
+    "effectName": "±©Ê³×çÖä",
+    "icon": "baoshibuff.png",
+    "color": {
+      "value": -16737997,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "BaoshizuzhouYaoShuiXiaoGuoChiXuShiMeiKeFaSheng"
+    }
+  }
+}

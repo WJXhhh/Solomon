@@ -1,0 +1,12 @@
+{
+  "parent": "solomon:custom/tianmu",
+  "textures": {
+    "1": "solomon:blocks/chijin",
+    "2": "solomon:blocks/lain1",
+    "3": "solomon:blocks/shoubing",
+    "4": "solomon:blocks/zhen",
+    "5": "solomon:blocks/texture2",
+    "6": "solomon:blocks/ganzi",
+    "7": "solomon:blocks/pai"
+  }
+}

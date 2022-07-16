@@ -1,0 +1,22 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:book"
+    },
+    "1": {
+      "item": "jdsbook:chuanshuozhice"
+    }
+  },
+  "result": {
+    "item": "patchjdsbook:guide_book",
+    "nbt": {
+    "patchjdsbook:book": "solomon:solobook"
+},
+    "count": 1
+  }
+}

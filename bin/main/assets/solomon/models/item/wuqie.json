@@ -1,0 +1,11 @@
+{
+  "parent": "solomon:custom/wuqie",
+  "textures": {
+    "1": "solomon:blocks/shoubing",
+    "2": "solomon:blocks/shoubing2",
+    "3": "solomon:blocks/pur",
+    "4": "solomon:blocks/whiteblade",
+    "5": "solomon:blocks/wuqiete",
+    "6": "solomon:blocks/texture222"
+  }
+}

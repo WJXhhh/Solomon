@@ -1,0 +1,7 @@
+{
+  "_fv": 18,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"105\" y=\"92\"><field name=\"trigger\">player_log_in</field></block><block type=\"entity_send_chat\" x=\"92\" y=\"256\"><value name=\"text\"><block type=\"text\"><field name=\"TEXT\">§6§l[所罗门之钥]§r你正在使用Beta1.1.1先行版，Mod已加载！</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"actbar\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value><next><block type=\"entity_send_chat\"><value name=\"text\"><block type=\"text\"><field name=\"TEXT\">§6§l[所罗门之钥]§r作者B站： §lhttps://space.bilibili.com/131427607</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"actbar\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value></block></next></block><block type=\"execute_command\" x=\"139\" y=\"355\"><value name=\"x\"><block type=\"coord_x\"></block></value><value name=\"y\"><block type=\"coord_y\"></block></value><value name=\"z\"><block type=\"coord_z\"></block></value><value name=\"command\"><block type=\"text\"><field name=\"TEXT\">tellraw @p [{\"text\":\"[所罗门之钥]\",\"color\":\"gold\",\"bold\":true},{\"text\":\"你正在使用Alpha1.0.4内测版本，Mod已加载！\"}]</field></block></value></block></xml>"
+  }
+}

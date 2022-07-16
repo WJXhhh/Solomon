@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "w_1408_gacha",
+    "customModelName": "boluan:default",
+    "name": "¡ìe¡ìl²¨ÂÒÔÂ°×¾­½ò",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Solo"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 11.0,
+    "usageCount": 30000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "GuanhonDangHuoZhaoDeShiTiBeiGaiWuPinJiZhong"
+    },
+    "onItemInInventoryTick": {
+      "name": "GuanhongDangGongJuChuXianZaiWuPinLanShi"
+    }
+  }
+}

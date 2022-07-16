@@ -1,0 +1,16 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "solomon:seyu"
+    },
+    {
+      "item": "solomon:baoshijingh"
+    }
+  ],
+  "result": {
+    "item": "solomon:tanalng",
+    "count": 2
+  }
+}

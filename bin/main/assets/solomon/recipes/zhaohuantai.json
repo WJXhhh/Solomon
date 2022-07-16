@@ -1,0 +1,25 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:godkey"
+    },
+    "1": {
+      "item": "solomon:deamincan"
+    },
+    "2": {
+      "item": "minecraft:stone",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "solomon:zhaohuan",
+    "count": 1
+  }
+}

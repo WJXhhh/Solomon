@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m0": "sssk",
+        "m1": "sssk"
+      },
+      "name": "default"
+    }
+  }
+}

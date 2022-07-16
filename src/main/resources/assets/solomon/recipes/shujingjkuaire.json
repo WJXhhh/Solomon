@@ -1,0 +1,42 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:shuij"
+    },
+    "1": {
+      "item": "solomon:shuij"
+    },
+    "2": {
+      "item": "solomon:shuij"
+    },
+    "3": {
+      "item": "solomon:shuij"
+    },
+    "4": {
+      "item": "solomon:shuij"
+    },
+    "5": {
+      "item": "solomon:shuij"
+    },
+    "6": {
+      "item": "solomon:shuij"
+    },
+    "7": {
+      "item": "solomon:shuij"
+    },
+    "8": {
+      "item": "solomon:shuij"
+    }
+  },
+  "result": {
+    "item": "solomon:shujkikuai",
+    "count": 1
+  }
+}

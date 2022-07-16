@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "white",
+        "2": "bladedown",
+        "3": "graybleu",
+        "4": "grayy",
+        "5": "graywhf",
+        "6": "zhuogan",
+        "7": "zongjin",
+        "8": "zhuojin",
+        "9": "liangjin"
+      },
+      "name": "default"
+    }
+  }
+}

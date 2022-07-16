@@ -1,0 +1,10 @@
+{
+  "parent": "solomon:custom/shuo2",
+  "textures": {
+    "0": "solomon:blocks/texture",
+    "1": "solomon:blocks/texture2",
+    "2": "solomon:blocks/texture3",
+    "3": "solomon:blocks/texture4",
+    "4": "solomon:blocks/texture5"
+  }
+}

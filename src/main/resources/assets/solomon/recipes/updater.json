@@ -1,0 +1,25 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "1": {
+      "item": "solomon:shuij"
+    },
+    "2": {
+      "item": "solomon:deamincan"
+    }
+  },
+  "result": {
+    "item": "solomon:updaterrr",
+    "count": 1
+  }
+}

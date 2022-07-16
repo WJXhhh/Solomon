@@ -1,0 +1,9 @@
+{
+  "parent": "solomon:custom/shenkan",
+  "textures": {
+    "all": "solomon:blocks/fireore",
+    "particle": "solomon:blocks/fireore",
+    "1": "solomon:blocks/texture4",
+    "2": "solomon:blocks/texture_lian1"
+  }
+}

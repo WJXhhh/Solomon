@@ -1,0 +1,54 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 296,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 255,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "贝尔芬格",
+          "color": {
+            "value": -16776961,
+            "falpha": 0.0
+          },
+          "name": "贝尔芬格",
+          "x": 203,
+          "y": 46
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪神",
+          "color": {
+            "value": -16737844,
+            "falpha": 0.0
+          },
+          "name": "原罪神",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪七神，懒惰之神贝尔芬格，召唤他需要懒惰之晶，由蠹虫掉落",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "原罪七神，懒惰之神贝尔芬格，召唤他需要懒惰之晶，由蠹虫掉落",
+          "x": 69,
+          "y": 80
+        }
+      }
+    ]
+  }
+}

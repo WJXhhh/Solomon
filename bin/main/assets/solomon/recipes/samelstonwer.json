@@ -1,0 +1,42 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:boornur"
+    },
+    "1": {
+      "item": "solomon:baonugo"
+    },
+    "2": {
+      "item": "solomon:boornur"
+    },
+    "3": {
+      "item": "solomon:baonugo"
+    },
+    "4": {
+      "item": "solomon:thewenxianofsamel"
+    },
+    "5": {
+      "item": "solomon:baonugo"
+    },
+    "6": {
+      "item": "solomon:boornur"
+    },
+    "7": {
+      "item": "solomon:baonugo"
+    },
+    "8": {
+      "item": "solomon:godkey"
+    }
+  },
+  "result": {
+    "item": "solomon:samelstone",
+    "count": 1
+  }
+}

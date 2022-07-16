@@ -1,0 +1,23 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "deeppur10",
+        "12": "deeppur11",
+        "13": "gold",
+        "14": "tidaogangan",
+        "1": "whitepur",
+        "2": "deeppur1",
+        "3": "deeppur2",
+        "4": "deeppur3",
+        "5": "deeppur4",
+        "6": "deeppur5",
+        "7": "deeppur6",
+        "8": "deeppur7",
+        "9": "deeppur8",
+        "10": "deeppur9"
+      },
+      "name": "default"
+    }
+  }
+}

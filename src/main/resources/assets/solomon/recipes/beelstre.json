@@ -1,0 +1,42 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:baoshijingh"
+    },
+    "1": {
+      "item": "solomon:bsgengpai"
+    },
+    "2": {
+      "item": "solomon:baoshijingh"
+    },
+    "3": {
+      "item": "solomon:bsgengpai"
+    },
+    "4": {
+      "item": "solomon:belzebwen"
+    },
+    "5": {
+      "item": "solomon:bsgengpai"
+    },
+    "6": {
+      "item": "solomon:baoshijingh"
+    },
+    "7": {
+      "item": "solomon:bsgengpai"
+    },
+    "8": {
+      "item": "solomon:godkey"
+    }
+  },
+  "result": {
+    "item": "solomon:beelzebubstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "lain1",
+        "2": "whiteblue",
+        "3": "blue",
+        "4": "boluangan",
+        "5": "texture2"
+      },
+      "name": "default"
+    }
+  }
+}

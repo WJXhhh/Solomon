@@ -1,0 +1,54 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 296,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 250,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "玛门",
+          "color": {
+            "value": -26368,
+            "falpha": 0.0
+          },
+          "name": "玛门",
+          "x": 207,
+          "y": 51
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪七神，贪婪之神玛门，召唤他需要贪婪之晶，由色欲之晶与暴食之晶无序合成",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "原罪七神，贪婪之神玛门，召唤他需要贪婪之晶，由色欲之晶与暴食之晶无序合成",
+          "x": 69,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "原罪神",
+          "color": {
+            "value": -16737844,
+            "falpha": 0.0
+          },
+          "name": "原罪神",
+          "x": 207,
+          "y": 64
+        }
+      }
+    ]
+  }
+}

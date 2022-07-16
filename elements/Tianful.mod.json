@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "tianfu",
+    "customModelName": "Normal",
+    "name": "绯樱天妇罗",
+    "rarity": "RARE",
+    "specialInfo": [
+      "油炸而成的菜肴。将腌制好的绯樱花瓣拌入面浆中，再把新鲜的虾和蔬菜均匀裹上面衣，炸制沥干油分。",
+      "供奉给谁也许会接受的吧。"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Solo"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

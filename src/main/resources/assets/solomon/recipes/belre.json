@@ -1,0 +1,42 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:landuozhijing"
+    },
+    "1": {
+      "item": "solomon:landuogengpai"
+    },
+    "2": {
+      "item": "solomon:landuozhijing"
+    },
+    "3": {
+      "item": "solomon:landuogengpai"
+    },
+    "4": {
+      "item": "solomon:belpwenxian"
+    },
+    "5": {
+      "item": "solomon:landuogengpai"
+    },
+    "6": {
+      "item": "solomon:landuozhijing"
+    },
+    "7": {
+      "item": "solomon:landuogengpai"
+    },
+    "8": {
+      "item": "solomon:godkey"
+    }
+  },
+  "result": {
+    "item": "solomon:belpstone",
+    "count": 1
+  }
+}

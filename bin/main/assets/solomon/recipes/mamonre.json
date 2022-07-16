@@ -1,0 +1,42 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:tanalng"
+    },
+    "1": {
+      "item": "solomon:tanglangnegpai"
+    },
+    "2": {
+      "item": "solomon:tanalng"
+    },
+    "3": {
+      "item": "solomon:tanglangnegpai"
+    },
+    "4": {
+      "item": "solomon:wenxianmamon"
+    },
+    "5": {
+      "item": "solomon:tanalng"
+    },
+    "6": {
+      "item": "solomon:tanalng"
+    },
+    "7": {
+      "item": "solomon:tanglangnegpai"
+    },
+    "8": {
+      "item": "solomon:godkey"
+    }
+  },
+  "result": {
+    "item": "solomon:mamonsto",
+    "count": 1
+  }
+}

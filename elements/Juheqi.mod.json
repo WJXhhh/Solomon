@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Deamincan"
+      },
+      {
+        "value": "Blocks.STONE"
+      },
+      {
+        "value": "CUSTOM:Deamincan"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Deamincan"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Deamincan"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Juhesk"
+    },
+    "name": "juheqi",
+    "namespace": "mod"
+  }
+}

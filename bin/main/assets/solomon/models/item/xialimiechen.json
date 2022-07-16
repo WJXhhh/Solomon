@@ -1,0 +1,9 @@
+{
+  "parent": "solomon:custom/xialimiechen",
+  "textures": {
+    "1": "solomon:blocks/chijin",
+    "2": "solomon:blocks/white",
+    "3": "solomon:blocks/rens",
+    "4": "solomon:blocks/qianggnaxia"
+  }
+}
