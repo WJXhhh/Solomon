@@ -32,6 +32,7 @@ import net.minecraft.entity.Entity;
 import net.minecraft.client.renderer.entity.RenderBiped;
 import net.minecraft.client.model.ModelBiped;
 
+import net.mcreator.solomon.procedure.ProcedureTarta2ShiTiSiWangShi;
 import net.mcreator.solomon.procedure.ProcedureTarta2DangShiTiGengXinKeShi;
 import net.mcreator.solomon.item.ItemTartablade;
 import net.mcreator.solomon.ElementsSolomonMod;
@@ -132,6 +133,23 @@ public class EntityTarta2 extends ElementsSolomonMod.ModElement {
 		@Override
 		protected float getSoundVolume() {
 			return 1.0F;
+		}
+
+		@Override
+		public void onDeath(DamageSource source) {
+			super.onDeath(source);
+			int x = (int) this.posX;
+			int y = (int) this.posY;
+			int z = (int) this.posZ;
+			Entity entity = this;
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				ProcedureTarta2ShiTiSiWangShi.executeProcedure($_dependencies);
+			}
 		}
 
 		@Override

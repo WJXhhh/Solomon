@@ -1,0 +1,22 @@
+{
+  "group": "solomon",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "solomon:tanggong"
+    },
+    "1": {
+      "item": "solomon:danshouy"
+    },
+    "2": {
+      "item": "solomon:godkey"
+    }
+  },
+  "result": {
+    "item": "solomon:sigilofpermission",
+    "count": 1
+  }
+}

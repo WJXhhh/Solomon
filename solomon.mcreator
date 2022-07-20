@@ -6760,6 +6760,80 @@
           }
         ]
       }
+    },
+    {
+      "name": "Sigilofpermission",
+      "type": "item",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sigilofpermission"
+    },
+    {
+      "name": "Childedrop1",
+      "type": "item",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "childedrop_1"
+    },
+    {
+      "name": "Childedrop2",
+      "type": "item",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "childedrop_2"
+    },
+    {
+      "name": "Childedrop3",
+      "type": "item",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "childedrop_3"
+    },
+    {
+      "name": "Tarta2ShiTiSiWangShi",
+      "type": "procedure",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tarta_2_shi_ti_si_wang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Baiwuewew",
+      "type": "recipe",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "baiwuewew"
     }
   ],
   "variable_elements": [
@@ -7501,8 +7575,8 @@
       "tile.duanz.name": "锻造台",
       "subtitles.tlstdeath": "",
       "effect.baoshizuzhou": "暴食诅咒",
-      "splash_potion.effect.damagecushigh": "Splash Damagecushigh",
       "potion.effect.aomanzuzhou": "傲慢诅咒",
+      "splash_potion.effect.damagecushigh": "Splash Damagecushigh",
       "tile.minglduanp.name": "鸣雷断片矿石",
       "lingering_potion.effect.leifuzhuo": "Lingering 雷附着",
       "entity.wuxiang.name": "Wuxiang",
@@ -7535,6 +7609,7 @@
       "entity.asmodeus.name": "Asmodeus",
       "msg.weadama": "Attack Damage",
       "item.vlf.name": "[火]神之眼-璃月",
+      "item.childedrop_1.name": "吞天之鲸·只角",
       "tipped_arrow.effect.damagecushigh": "Arrow of Damagecushigh",
       "item.bsgengpai.name": "暴食之庚牌",
       "item.belphcan.name": "贝尔芬格残魂",
@@ -7702,6 +7777,7 @@
       "splash_potion.effect.jiduzuzhou": "Splash 嫉妒诅咒",
       "item.wuxingqihun.name": "§e§l五星器魂",
       "item.landuogengpai.name": "懒惰之庚牌",
+      "item.sigilofpermission.name": "百无禁忌箓",
       "tile.deamoncan.name": "魔神残渣矿石",
       "item.ticaozhidaoguang.name": "§e§l薙草之稻光",
       "item.seyugp.name": "色欲之庚牌",
@@ -7745,12 +7821,14 @@
       "effect.bingfuzhuo": "冰附着",
       "entity.baoshishitu.name": "暴食使徒",
       "item.morasword.name": "§e§l磐岩结绿",
+      "item.childedrop_3.name": "武炼真魂·孤影",
       "item.nenglifu.name": "能力原符",
       "subtitles.belphji2": "",
       "entity.blezeb.name": "别西卜",
       "subtitles.belphji1": "",
       "subtitles.landuodea": "",
       "entity.aomanshitu.name": "原罪使徒\u003c傲慢\u003e",
+      "item.childedrop_2.name": "魔王武装·残片",
       "effect.baonuzuzhou": "暴怒诅咒",
       "tipped_arrow.effect.leifuzhuo": "Arrow of 雷附着",
       "item.gongyuan.name": "§d北陆弓原胚",
@@ -7830,8 +7908,8 @@
       "tile.duanz.name": "锻造台",
       "subtitles.tlstdeath": "",
       "effect.baoshizuzhou": "暴食诅咒",
-      "potion.effect.aomanzuzhou": "傲慢诅咒",
       "splash_potion.effect.damagecushigh": "Splash Damagecushigh",
+      "potion.effect.aomanzuzhou": "傲慢诅咒",
       "tile.minglduanp.name": "鸣雷断片矿石",
       "lingering_potion.effect.leifuzhuo": "Lingering 雷附着",
       "entity.wuxiang.name": "Wuxiang",
@@ -7864,6 +7942,7 @@
       "entity.asmodeus.name": "阿斯莫德",
       "msg.weadama": "武器伤害",
       "item.vlf.name": "[火]神之眼-璃月",
+      "item.childedrop_1.name": "吞天之鲸·只角",
       "tipped_arrow.effect.damagecushigh": "Arrow of Damagecushigh",
       "item.bsgengpai.name": "暴食之庚牌",
       "item.belphcan.name": "贝尔芬格残魂",
@@ -8032,6 +8111,7 @@
       "splash_potion.effect.jiduzuzhou": "Splash 嫉妒诅咒",
       "item.wuxingqihun.name": "§e§l五星器魂",
       "item.landuogengpai.name": "懒惰之庚牌",
+      "item.sigilofpermission.name": "百无禁忌箓",
       "tile.deamoncan.name": "魔神残渣矿石",
       "item.ticaozhidaoguang.name": "§e§l薙草之稻光",
       "item.seyugp.name": "色欲之庚牌",
@@ -8075,12 +8155,14 @@
       "effect.bingfuzhuo": "Bingfuzhuo",
       "entity.baoshishitu.name": "原罪使徒\u003c暴食\u003e",
       "item.morasword.name": "§e§l磐岩结绿",
+      "item.childedrop_3.name": "武炼真魂·孤影",
       "item.nenglifu.name": "能力原符",
       "subtitles.belphji2": "",
       "entity.blezeb.name": "别西卜",
       "subtitles.belphji1": "",
       "subtitles.landuodea": "",
       "entity.aomanshitu.name": "原罪使徒\u003c傲慢\u003e",
+      "item.childedrop_2.name": "魔王武装·残片",
       "effect.baonuzuzhou": "暴怒诅咒",
       "tipped_arrow.effect.leifuzhuo": "Arrow of 雷附着",
       "item.gongyuan.name": "§d北陆弓原胚",
@@ -8161,8 +8243,8 @@
       "tile.duanz.name": "鍛造テーブル",
       "subtitles.tlstdeath": "",
       "effect.baoshizuzhou": "暴食の呪い",
-      "potion.effect.aomanzuzhou": "傲慢诅咒",
       "splash_potion.effect.damagecushigh": "Splash Damagecushigh",
+      "potion.effect.aomanzuzhou": "傲慢诅咒",
       "tile.minglduanp.name": "雷の破片鉱石",
       "lingering_potion.effect.leifuzhuo": "Lingering 雷附着",
       "entity.wuxiang.name": "Wuxiang",
@@ -8195,6 +8277,7 @@
       "entity.asmodeus.name": "アスモデウス",
       "msg.weadama": "武器攻撃ダメージ",
       "item.vlf.name": "[火]神之眼-璃月",
+      "item.childedrop_1.name": "吞天之鲸·只角",
       "tipped_arrow.effect.damagecushigh": "Arrow of Damagecushigh",
       "item.bsgengpai.name": "暴食のシンボル",
       "item.belphcan.name": "ベルフェゴールの残された魂",
@@ -8362,6 +8445,7 @@
       "splash_potion.effect.jiduzuzhou": "Splash 嫉妒诅咒",
       "item.wuxingqihun.name": "§e§l五星器魂",
       "item.landuogengpai.name": "懒惰のシンボル",
+      "item.sigilofpermission.name": "百无禁忌箓",
       "tile.deamoncan.name": "魔神の残骸鉱石",
       "item.ticaozhidaoguang.name": "§e§l薙草之稻光",
       "item.seyugp.name": "淫欲のシンボル",
@@ -8405,12 +8489,14 @@
       "effect.bingfuzhuo": "Bingfuzhuo",
       "entity.baoshishitu.name": "原罪使徒\u003c暴食\u003e",
       "item.morasword.name": "§e§l磐岩结绿",
+      "item.childedrop_3.name": "武炼真魂·孤影",
       "item.nenglifu.name": "能力原符",
       "subtitles.belphji2": "",
       "entity.blezeb.name": "ベルゼブブベルゼブブ",
       "subtitles.belphji1": "",
       "subtitles.landuodea": "",
       "entity.aomanshitu.name": "原罪使徒\u003c傲慢\u003e",
+      "item.childedrop_2.name": "魔王武装·残片",
       "effect.baonuzuzhou": "暴怒诅咒",
       "tipped_arrow.effect.leifuzhuo": "Arrow of 雷附着",
       "item.gongyuan.name": "§d弓の原型",

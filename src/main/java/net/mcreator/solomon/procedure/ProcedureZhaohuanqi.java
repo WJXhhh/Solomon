@@ -17,6 +17,7 @@ import net.minecraft.client.gui.GuiTextField;
 
 import net.mcreator.solomon.item.ItemZhaohuanstoneasmod;
 import net.mcreator.solomon.item.ItemTianful;
+import net.mcreator.solomon.item.ItemSigilofpermission;
 import net.mcreator.solomon.item.ItemSamelstone;
 import net.mcreator.solomon.item.ItemMengying;
 import net.mcreator.solomon.item.ItemMamonsto;
@@ -1339,6 +1340,134 @@ public class ProcedureZhaohuanqi extends ElementsSolomonMod.ModElement {
 							return new Vec3d(x, y, (z + 1));
 						}
 					}, "summon solomon:morax");
+				}
+			} else {
+				if (entity instanceof EntityPlayer && !entity.world.isRemote) {
+					((EntityPlayer) entity).sendStatusMessage(
+							new TextComponentString(net.minecraft.client.resources.I18n.format("message.zhaohuanqi.groundsmall", new Object[0])),
+							(false));
+				}
+			}
+		}
+		if ((((new Object() {
+			public ItemStack getItemStack(int sltid) {
+				if (entity instanceof EntityPlayerMP) {
+					Container _current = ((EntityPlayerMP) entity).openContainer;
+					if (_current instanceof Supplier) {
+						Object invobj = ((Supplier) _current).get();
+						if (invobj instanceof Map) {
+							return ((Slot) ((Map) invobj).get(sltid)).getStack();
+						}
+					}
+				}
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack((int) (0))).getItem() == new ItemStack(ItemSigilofpermission.block, (int) (1)).getItem()) && (((new Object() {
+			public String getText() {
+				GuiTextField textField = (GuiTextField) guistate.get("text:kouling");
+				if (textField != null) {
+					return textField.getText();
+				}
+				return "";
+			}
+		}.getText())).equals("Childe")))) {
+			if (((world.getBlockState(new BlockPos((int) (x + 1), (int) y, (int) z))).getBlock() == Blocks.AIR.getDefaultState().getBlock())) {
+				if (entity instanceof EntityPlayerMP) {
+					Container _current = ((EntityPlayerMP) entity).openContainer;
+					if (_current instanceof Supplier) {
+						Object invobj = ((Supplier) _current).get();
+						if (invobj instanceof Map) {
+							((Slot) ((Map) invobj).get((int) (0))).putStack(ItemStack.EMPTY);
+							_current.detectAndSendChanges();
+						}
+					}
+				}
+				if (!world.isRemote && world.getMinecraftServer() != null) {
+					world.getMinecraftServer().getCommandManager().executeCommand(new ICommandSender() {
+						@Override
+						public String getName() {
+							return "";
+						}
+
+						@Override
+						public boolean canUseCommand(int permission, String command) {
+							return true;
+						}
+
+						@Override
+						public World getEntityWorld() {
+							return world;
+						}
+
+						@Override
+						public MinecraftServer getServer() {
+							return world.getMinecraftServer();
+						}
+
+						@Override
+						public boolean sendCommandFeedback() {
+							return false;
+						}
+
+						@Override
+						public BlockPos getPosition() {
+							return new BlockPos((int) (x + 1), (int) y, (int) z);
+						}
+
+						@Override
+						public Vec3d getPositionVector() {
+							return new Vec3d((x + 1), y, z);
+						}
+					}, "summon solomon:tartaglia");
+				}
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == Blocks.AIR.getDefaultState().getBlock())) {
+				if (entity instanceof EntityPlayerMP) {
+					Container _current = ((EntityPlayerMP) entity).openContainer;
+					if (_current instanceof Supplier) {
+						Object invobj = ((Supplier) _current).get();
+						if (invobj instanceof Map) {
+							((Slot) ((Map) invobj).get((int) (0))).putStack(ItemStack.EMPTY);
+							_current.detectAndSendChanges();
+						}
+					}
+				}
+				if (!world.isRemote && world.getMinecraftServer() != null) {
+					world.getMinecraftServer().getCommandManager().executeCommand(new ICommandSender() {
+						@Override
+						public String getName() {
+							return "";
+						}
+
+						@Override
+						public boolean canUseCommand(int permission, String command) {
+							return true;
+						}
+
+						@Override
+						public World getEntityWorld() {
+							return world;
+						}
+
+						@Override
+						public MinecraftServer getServer() {
+							return world.getMinecraftServer();
+						}
+
+						@Override
+						public boolean sendCommandFeedback() {
+							return false;
+						}
+
+						@Override
+						public BlockPos getPosition() {
+							return new BlockPos((int) x, (int) y, (int) (z + 1));
+						}
+
+						@Override
+						public Vec3d getPositionVector() {
+							return new Vec3d(x, y, (z + 1));
+						}
+					}, "summon solomon:tartaglia");
 				}
 			} else {
 				if (entity instanceof EntityPlayer && !entity.world.isRemote) {
