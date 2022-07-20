@@ -780,7 +780,7 @@ public class ProcedureJsuch extends ElementsSolomonMod.ModElement {
 					}
 					return ItemStack.EMPTY;
 				}
-			}.getItemStack((int) (2))).getItem() == new ItemStack(ItemYuanshi.block, (int) (1)).getItem()) || ((new Object() {
+			}.getItemStack((int) (2))).getItem() == new ItemStack(ItemYanzhiyin.block, (int) (1)).getItem()) || ((new Object() {
 				public int getAmount(int sltid) {
 					if (entity instanceof EntityPlayerMP) {
 						Container _current = ((EntityPlayerMP) entity).openContainer;
