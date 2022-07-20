@@ -35,11 +35,6 @@ import java.util.Random;
 
 @ElementsSolomonMod.ModElement.Tag
 public class JuheqiRecipe extends ElementsSolomonMod.ModElement implements IRecipeWrapper {
-	/**
-	 * Do not remove this constructor
-	 */
-
-
 
 
 	private final List<ItemStack> inputs;
