@@ -3,8 +3,10 @@
 [MC百科链接](https://www.mcmod.cn/class/5665.html)
 
 
-##配置
+## 配置
+
 以下皆为Windows操作方式
+
 **构建MOD**
 ```shell
 gradlew build
