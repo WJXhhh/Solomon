@@ -6834,69 +6834,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "baiwuewew"
-    },
-    {
-      "name": "JEICompat",
-      "type": "code",
-      "sortid": 406,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "jei_compat"
-    },
-    {
-      "name": "RecipesCategorys",
-      "type": "code",
-      "sortid": 407,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "recipes_categorys"
-    },
-    {
-      "name": "AbstractJuheqi",
-      "type": "code",
-      "sortid": 408,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "abstract_juheqi"
-    },
-    {
-      "name": "SolomonCustomMachineRecipes",
-      "type": "code",
-      "sortid": 409,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "solomon_custom_machine_recipes"
-    },
-    {
-      "name": "JuheqiRecipe",
-      "type": "code",
-      "sortid": 410,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "juheqi_recipe"
-    },
-    {
-      "name": "JuheqiRecipeCategory",
-      "type": "code",
-      "sortid": 411,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "juheqi_recipe_category"
-    },
-    {
-      "name": "JuheqiRecipeMaker",
-      "type": "code",
-      "sortid": 412,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "juheqi_recipe_maker"
     }
   ],
   "variable_elements": [
