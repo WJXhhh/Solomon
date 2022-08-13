@@ -12,8 +12,8 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
 version = "1.0"
-group = "com.yourname.modid"
-archivesBaseName = "modid"
+group = "com.mcreator.solom"
+archivesBaseName = "solom"
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
@@ -62,4 +62,4 @@ dependencies {
 }
 
 apply from: 'mcreator.gradle'
-
+//compileJava.options.encoding = 'UTF-8'

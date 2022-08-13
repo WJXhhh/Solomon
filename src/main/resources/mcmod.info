@@ -12,9 +12,7 @@
     "authorList": [
       "JDJades(WJX), MCreator"
     ],
-    "dependencies": [
-      "forge@[14.23.5.2855]"
-    ],
+    
     "dependants": [],
     "requiredMods": [],
     "useDependencyInformation": "true"

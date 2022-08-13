@@ -1,7 +1,7 @@
 {
   "id_map": {
-    "GUI": 19,
-    "ENTITY": 102
+    "ENTITY": 102,
+    "GUI": 19
   },
   "mod_elements": [
     {
@@ -7627,6 +7627,7 @@
       "subtitles.leviaji2": "",
       "subtitles.jdstdea": "",
       "item.vlw.name": "[水]神之眼-璃月",
+      "tooltip.solodamage": "Atk: ",
       "tile.shenkan.name": "神龛",
       "item.mammoncan.name": "玛门残魂",
       "item.beelsoul.name": "别西卜残魂",
@@ -7644,6 +7645,7 @@
       "entity.tarjianyu.name": "剑雨",
       "item.gowin.name": "§l[风]神之心",
       "item.tartaglia_bow.name": "§d达达利亚的弓",
+      "tooltip.sololevel": "Lv: ",
       "key.mcreator.yuzhnag": "元素战技1",
       "splash_potion.effect.leifuzhuo": "Splash 雷附着",
       "subtitles.shoda": "",
@@ -7960,6 +7962,7 @@
       "subtitles.leviaji2": "",
       "subtitles.jdstdea": "",
       "item.vlw.name": "[水]神之眼-璃月",
+      "tooltip.solodamage": "攻击伤害: ",
       "tile.shenkan.name": "神龛",
       "item.mammoncan.name": "玛门残魂",
       "item.beelsoul.name": "别西卜残魂",
@@ -7977,6 +7980,7 @@
       "entity.tarjianyu.name": "岩枪",
       "item.gowin.name": "§l[风]神之心",
       "item.tartaglia_bow.name": "§d达达利亚的弓",
+      "tooltip.sololevel": "等级: ",
       "key.mcreator.yuzhnag": "元素战技1",
       "splash_potion.effect.leifuzhuo": "Splash 雷附着",
       "subtitles.shoda": "",
@@ -8295,6 +8299,7 @@
       "subtitles.leviaji2": "",
       "subtitles.jdstdea": "",
       "item.vlw.name": "[水]神之眼-璃月",
+      "tooltip.solodamage": "攻撃力: ",
       "tile.shenkan.name": "神龛",
       "item.mammoncan.name": "マンモンの残された魂",
       "item.beelsoul.name": "ベルゼブブの残された魂",
@@ -8312,6 +8317,7 @@
       "entity.tarjianyu.name": "岩枪",
       "item.gowin.name": "§l[风]神之心",
       "item.tartaglia_bow.name": "§d达达利亚的弓",
+      "tooltip.sololevel": "Lv: ",
       "key.mcreator.yuzhnag": "玉璋シールド",
       "splash_potion.effect.leifuzhuo": "Splash 雷附着",
       "subtitles.shoda": "",

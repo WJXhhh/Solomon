@@ -1,6 +1,12 @@
 
 package net.mcreator.solomon.item;
 
+import com.mojang.realmsclient.gui.ChatFormatting;
+import net.minecraft.client.resources.I18n;
+import net.minecraft.client.util.ITooltipFlag;
+import net.minecraft.entity.SharedMonsterAttributes;
+import net.minecraft.entity.ai.attributes.AttributeModifier;
+import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.common.registry.GameRegistry;
@@ -21,6 +27,8 @@ import net.mcreator.solomon.procedure.ProcedureGuanhonDangHuoZhaoDeShiTiBeiGaiWu
 import net.mcreator.solomon.creativetab.TabSolo;
 import net.mcreator.solomon.ElementsSolomonMod;
 
+import javax.annotation.Nullable;
+import java.util.List;
 import java.util.Set;
 import java.util.Map;
 import java.util.HashMap;
@@ -44,6 +52,14 @@ public class ItemTicaozhidaoguang extends ElementsSolomonMod.ModElement {
 				ret.put("pickaxe", 1);
 				return ret.keySet();
 			}
+
+			@SideOnly(Side.CLIENT)
+			public void addInformation(ItemStack stack, @Nullable World worldIn, List<String> tooltip, ITooltipFlag flagIn)
+			{
+				super.addInformation(stack,worldIn,tooltip,flagIn);
+				tooltip.add("\u00A7e\u2605\u2605\u2605\u2605\u2605");
+				tooltip.add(String.format(I18n.format("tooltip.solodamage")+"%s",new StringBuilder((stack.getTagCompound().getDouble("sololevel"))*5+String.valueOf(((AttributeModifier)(stack.getItem().getAttributeModifiers(EntityEquipmentSlot.MAINHAND,stack).get(SharedMonsterAttributes.ATTACK_DAMAGE.getName()))).getAmount())).append(ChatFormatting.GREEN).toString()));
+				tooltip.add(String.format(I18n.format("tooltip.sololevel")+"%s",new StringBuilder((int)stack.getTagCompound().getDouble("sololevel")).append(ChatFormatting.GREEN).toString()));}
 
 			@Override
 			public boolean hitEntity(ItemStack itemstack, EntityLivingBase entity, EntityLivingBase sourceentity) {

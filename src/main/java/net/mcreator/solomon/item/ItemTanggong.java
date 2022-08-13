@@ -1,6 +1,9 @@
 
 package net.mcreator.solomon.item;
 
+import com.mojang.realmsclient.gui.ChatFormatting;
+import net.minecraft.client.resources.I18n;
+import net.minecraft.client.util.ITooltipFlag;
 import org.lwjgl.opengl.GL11;
 
 import net.minecraftforge.fml.relauncher.SideOnly;
@@ -46,10 +49,13 @@ import net.mcreator.solomon.procedure.ProcedureTanggongDangYuanChengWuPinShiYong
 import net.mcreator.solomon.creativetab.TabSolo;
 import net.mcreator.solomon.ElementsSolomonMod;
 
+import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
 
 import com.google.common.collect.Multimap;
+
+import javax.annotation.Nullable;
 
 @ElementsSolomonMod.ModElement.Tag
 public class ItemTanggong extends ElementsSolomonMod.ModElement {
@@ -66,6 +72,14 @@ public class ItemTanggong extends ElementsSolomonMod.ModElement {
 		elements.entities.add(() -> EntityEntryBuilder.create().entity(EntityArrowCustom.class)
 				.id(new ResourceLocation("solomon", "entitybullettanggong"), ENTITYID).name("entitybullettanggong").tracker(64, 1, true).build());
 	}
+
+	@SideOnly(Side.CLIENT)
+	public void addInformation(ItemStack stack, @Nullable World worldIn, List<String> tooltip, ITooltipFlag flagIn)
+	{
+
+		tooltip.add("\u00A7e\u2605\u2605\u2605");
+		tooltip.add(String.format(I18n.format("tooltip.solodamage")+"%s",new StringBuilder((stack.getTagCompound().getDouble("sololevel"))*2+String.valueOf(((AttributeModifier)(stack.getItem().getAttributeModifiers(EntityEquipmentSlot.MAINHAND,stack).get(SharedMonsterAttributes.ATTACK_DAMAGE.getName()))).getAmount())).append(ChatFormatting.GREEN).toString()));
+		tooltip.add(String.format(I18n.format("tooltip.sololevel")+"%s",new StringBuilder((int)stack.getTagCompound().getDouble("sololevel")).append(ChatFormatting.GREEN).toString()));}
 
 	@Override
 	@SideOnly(Side.CLIENT)
@@ -146,7 +160,8 @@ public class ItemTanggong extends ElementsSolomonMod.ModElement {
 							entity.inventory.clearMatchingItems(new ItemStack(Items.ARROW, (int) (1)).getItem(), -1, 1, null);
 						}
 					}
-					if (!world.isRemote){
+					if (!world.isRemote)
+{
 						world.spawnEntity(entityarrow);
 					
 						Map<String, Object> $_dependencies = new HashMap<>();
